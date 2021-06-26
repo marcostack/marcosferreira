@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🔭 Nos meus repositórios você encontrará alguns projetos que fiz utilizando NodeJS, ReactJS, React Native, Python/Django.
 
-💬 Caso esteja interessado, para entrar em contato basta acessar meu <a href="https://www.linkedin.com/in/marcosferreira-works"> LinkedIn </a> .
+💬 Caso esteja interessado, para entrar em contato basta acessar meu <a href="https://www.linkedin.com/in/marcosferreira-works" target="_blank"> LinkedIn </a> .
 
 ----
 
