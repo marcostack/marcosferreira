@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💜 Olá, seja bem vindo 👋!!!
+## 👋 Olá, seja bem vindo 💜!!!
 
 > Por aqui você encontrará alguns dos meus projetos que desenvolvo tanto frontend quanto backend.
 
