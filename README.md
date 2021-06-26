@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 > Por aqui você encontrará alguns dos meus projetos que desenvolvo tanto frontend quanto backend.
 
-🔭 Nos meus repositórios você encontrará alguns projetos que fiz utilizando NodeJS, ReactJS, React Native, Python/Django.
+🔭 Nos meus repositórios você terá acesso à alguns projetos que fiz utilizando NodeJS, ReactJS, React Native, Python/Django.
 
 💬 Caso esteja interessado, para entrar em contato basta acessar meu <a href="https://www.linkedin.com/in/marcosferreira-work" target="_blank"> LinkedIn </a> .
 
