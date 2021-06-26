@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosferreira&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosferreira)](https://github.com/marcosferreira)
